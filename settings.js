@@ -27,9 +27,9 @@ global.premium = ['6282172166700'] //ubah jadi nomor mu, note tanda ' gausah di 
 global.ownernomer = '6282172166700' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'RIY' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '€|¶¡' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'Liya-Bot' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = '€|¶¡' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
@@ -37,12 +37,12 @@ global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.ig = 'https://instagram.com/riychdwayne'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
 global.myweb = 'https://s.id/RiyAPIs'
-global.email = 'riychdwaynee@gmail.com'
+global.email = 'elqigm@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
 global.packname = '™LIYA-BOT' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Owner' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.author = '€|¶¡' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
